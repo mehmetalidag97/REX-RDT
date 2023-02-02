@@ -20,7 +20,7 @@ from sphinx.ext.autodoc import cut_lines
 # sys.path.insert(0, os.path.abspath('..'))
 # -- Project information
 
-project = 'PicoBricks'
+project = 'REX'
 copyright = '2022, Robotistan'
 author = 'R&D TEAM'
 
