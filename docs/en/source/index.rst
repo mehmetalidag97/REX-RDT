@@ -12,7 +12,7 @@ Welcome to REX Documentation
    :maxdepth: 1
    :caption: Contents:
 
-   What is PicoBricks? <picobricks>
+   What is REX 8in1? <rex>
 
    
 
