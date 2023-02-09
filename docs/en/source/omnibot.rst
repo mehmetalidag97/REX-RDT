@@ -1,3 +1,3 @@
-What is REX 8in1?
+What is OmniBot?
 ====================
 
